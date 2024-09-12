@@ -1,0 +1,11 @@
+C:\Users\Rayyan-PC\source\repos\WindowsFormsAppAssignments\Day2\bin\Debug\Day2.exe.config
+C:\Users\Rayyan-PC\source\repos\WindowsFormsAppAssignments\Day2\bin\Debug\Day2.exe
+C:\Users\Rayyan-PC\source\repos\WindowsFormsAppAssignments\Day2\bin\Debug\Day2.pdb
+C:\Users\Rayyan-PC\source\repos\WindowsFormsAppAssignments\Day2\obj\Debug\Day2.csproj.AssemblyReference.cache
+C:\Users\Rayyan-PC\source\repos\WindowsFormsAppAssignments\Day2\obj\Debug\Day2.Properties.Resources.resources
+C:\Users\Rayyan-PC\source\repos\WindowsFormsAppAssignments\Day2\obj\Debug\Day2.csproj.GenerateResource.cache
+C:\Users\Rayyan-PC\source\repos\WindowsFormsAppAssignments\Day2\obj\Debug\Day2.csproj.CoreCompileInputs.cache
+C:\Users\Rayyan-PC\source\repos\WindowsFormsAppAssignments\Day2\obj\Debug\Day2.exe
+C:\Users\Rayyan-PC\source\repos\WindowsFormsAppAssignments\Day2\obj\Debug\Day2.pdb
+C:\Users\Rayyan-PC\source\repos\WindowsFormsAppAssignments\Day2\obj\Debug\Day2.Assignment1.resources
+C:\Users\Rayyan-PC\source\repos\WindowsFormsAppAssignments\Day2\obj\Debug\Day2.Assignment2.resources
